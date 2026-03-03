@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[(https://airesumescreening-vzsgugzjen6qghfxdfievz.streamlit.app/)]" target="_blank">
+  <a href="(https://airesumescreening-vzsgugzjen6qghfxdfievz.streamlit.app/)" target="_blank">
     🌐 Live Demo
   </a>
 </p>
